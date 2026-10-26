@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/Index/Index",
+    "pages/tea/tea",
+    "pages/activity/activity",
+    "pages/order/order",
+    "pages/people/people",
+    "pages/spec/GoodsDetailPage",
+    "pages/people/login",
+    "pages/people/pointsShop",
+    "pages/Index/cardVip",
+    "pages/Index/giftCard",
+    "pages/Index/storePage",
+    "pages/people/douyinExchange",
+    "pages/people/couponExchange",
+    "pages/people/medalPage",
+    "pages/people/signPage",
+    "pages/people/shopPage",
+    "pages/people/womenPage"
+  ]
+}
